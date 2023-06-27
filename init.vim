@@ -8,7 +8,6 @@ set smartindent
 set tabstop=4
 set shiftwidth=4
 set splitright
-set clipboard=unname
 set encoding=UTF-8
 set fileencodings=utf-8,euc-jp,sjis
 set fileencoding=utf-8
